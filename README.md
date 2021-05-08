@@ -1,14 +1,26 @@
-{
-  "main": "node_modules/expo/AppEntry.js",
-  "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web",
-    "eject": "expo eject"
-  },
-  "dependencies": {
-    "@expo-google-fonts/lato": "^0.1.0",
+# WhatTheMeal
+
+App where you can find restaurants with their information like if its open, address and kind of restaurant. There is a map showing all the restaurants in the city (San Francisco, Antwerp and Chicago). You can login, register and log out.
+
+### Screenshots
+<img src="/images/ss1.png">
+<img src="/images/ss2.png">
+<img src="/images/ss3.png">
+<img src="/images/ss4.png">
+<img src="/images/ss5.png">
+<img src="/images/ss6.png">
+<img src="/images/ss7.png">
+<img src="/images/ss8.png">
+
+## Lenguajes
+ - JAVASCRIPT
+
+## Libraries
+ - React
+
+
+## Dependencies
+ - "@expo-google-fonts/lato": "^0.1.0",
     "@expo-google-fonts/oswald": "^0.1.0",
     "@expo/vector-icons": "^12.0.4",
     "@react-native-async-storage/async-storage": "^1.13.0",
@@ -36,9 +48,7 @@
     "react-native-web": "^0.15.7",
     "react-native-webview": "11.2.3",
     "styled-components": "^5.2.3"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.9.0"
-  },
-  "private": true
-}
+
+## Tools
+ - Visual Studio Code
+ - Android Studio
